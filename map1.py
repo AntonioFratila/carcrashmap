@@ -20,4 +20,3 @@ for lt, ln in zip(lat, lon):
 map.add_child(fg)
 
 map.save("Map1.html")
-
